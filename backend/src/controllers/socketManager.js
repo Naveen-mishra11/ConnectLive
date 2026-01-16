@@ -116,8 +116,6 @@ export const connectToSocket = (server) => {
 
 
     return io;
-<<<<<<< HEAD
+
 }
-=======
-}
->>>>>>> ace69b6cd99ba8fb96bd74fa812f0a41b5a5c003
+
