@@ -26,7 +26,7 @@ function HomeComponent() {
 
                 <div style={{ display: "flex", alignItems: "center" }}>
 
-                    <h2>Zoom Video Call</h2>
+                    <h2>ConnectLive</h2>
                 </div>
 
                 <div style={{ display: "flex", alignItems: "center" }}>
